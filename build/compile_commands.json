@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/student/Desktop/projects/ATM_HW4/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-7   -g -o CMakeFiles/out.dir/debugger.c.o -c /home/student/Desktop/projects/ATM_HW4/debugger.c",
+  "file": "/home/student/Desktop/projects/ATM_HW4/debugger.c"
+},
+{
+  "directory": "/home/student/Desktop/projects/ATM_HW4/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-7   -g -o CMakeFiles/out.dir/find_symbol.c.o -c /home/student/Desktop/projects/ATM_HW4/find_symbol.c",
+  "file": "/home/student/Desktop/projects/ATM_HW4/find_symbol.c"
+}
+]

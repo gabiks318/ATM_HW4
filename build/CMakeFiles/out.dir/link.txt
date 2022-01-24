@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-gcc-7 -g CMakeFiles/out.dir/debugger.c.o CMakeFiles/out.dir/find_symbol.c.o -o out 

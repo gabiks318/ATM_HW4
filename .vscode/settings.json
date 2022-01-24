@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stat.h": "c",
+        "elf64.h": "c",
+        "mman.h": "c",
+        "errno.h": "c"
+    }
+}

@@ -1,0 +1,3 @@
+/home/student/Desktop/projects/ATM_HW4/build/CMakeFiles/out.dir
+/home/student/Desktop/projects/ATM_HW4/build/CMakeFiles/edit_cache.dir
+/home/student/Desktop/projects/ATM_HW4/build/CMakeFiles/rebuild_cache.dir
